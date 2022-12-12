@@ -3,6 +3,7 @@
 
  ### Screenshot
 
+![Screenshot](https://raw.githubusercontent.com/jsanzdev/iterm2-monokai-theme/main/iterm2-monokai-pro-screenshot.png?raw=true)
 
 
 # Installation
